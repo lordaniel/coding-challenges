@@ -1,0 +1,1 @@
+#Some code to solve programming contest
